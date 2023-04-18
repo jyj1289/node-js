@@ -19,7 +19,7 @@ Person.prototype.walk = function(speed) {
 };
 
 var person3 = new Person('오렌지캬라멜', 20);
-var person4 = new Person('아이유', 19);
+var person4 = new Person('아이유', 19); 
 
 person3.walk(10);
 
